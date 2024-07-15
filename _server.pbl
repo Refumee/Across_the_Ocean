@@ -1,0 +1,22 @@
+title="Across the Ocean"
+type="campaign"
+icon="units/saurians/oracle/oracle-se-magic2.png"
+version="0.5.7"
+author="SkyOne, Inky, Refumee(porter)"
+passphrase="skyone"
+dependencies=Refumees_Saurian_Pack
+description="A campaign of Saurian adventures, 17 playable scenarios and a few others, playable all.
+
+Version 0.5.7: Bugfixes for Scenario 1, 6 and 7. Plaxar seems to be an important character for S7, no more. Extended the prerecruit event.
+Version 0.5.6: Bugfixes for Seeker Smokebomb and adding Spearthrower line.
+Version 0.5.5c: Several Bugfixes, SPEAK_NARRATOR + images and recall bugs who break the game.
+Version 0.5.5b: Minor Bugfix for Dialog.
+Version 0.5.5a: Skaphee advances to Sage now. No more chosing for the player.
+Version 0.5.5: Adding my Saurian Pack to this addon. Not Savegame compatible!
+Version 0.5.4b: Skaphee do not advances to Seer anymore for the first advancement. Now the player can decide which part they want. 
+Version 0.5.4a: Waklex starts with traits now.
+Version 0.5.4: Changed up the Ants and Scorpions to modern sprites. Changed the set up in S6, now it should be bug free. Waklex is now, not a new unit in S3, keeping all XP form S1.
+"
+[feedback]
+    topic_id=42731
+[/feedback]
